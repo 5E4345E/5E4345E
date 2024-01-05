@@ -2,6 +2,7 @@
   <img
     alt="Most Used Languages"
     height="150px"
+    width="450px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=5E4345E&layout=compact&count_private=true&show_icons=true"
   />
   <img
